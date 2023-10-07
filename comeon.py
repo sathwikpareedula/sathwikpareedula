@@ -1,21 +1,19 @@
 import cv2
 
 # Initialize the camera
-cap = cv2.VideoCapture(0)  # 0 represents the default camera, change if needed
+cap = cv2.VideoCapture(0)  # 0 for the default camera, you can change it if you have multiple cameras
 
-# Capture a frame
-ret, frame = cap.read()
+while True:
+    # Read a frame from the camera
+    ret, frame = cap.read()
 
-# Release the camera
+    # Display the frame
+    cv2.imshow('Live Camera Feed', frame)
+
+    # Exit loop if 'q' is pressed
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+# Release the camera and close the window
 cap.release()
-
-# Save the frame as an image
-cv2.imwrite('captured_image.jpg', frame)
-
-# Display a message
-print("Image captured and saved as 'captured_image.jpg'")
-
-# Optional: Display the captured image
-cv2.imshow('Captured Image', frame)
-cv2.waitKey(0)
 cv2.destroyAllWindows()
