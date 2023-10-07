@@ -1,19 +1,24 @@
-import cv2
+from PIL import Image
+from io import BytesIO
+import requests
 
-# Initialize the camera
-cap = cv2.VideoCapture(0)  # 0 for the default camera, you can change it if you have multiple cameras
+def capture_image():
+    # Assuming you have a camera accessible via a URL
+    # Replace 'CAMERA_URL' with the actual URL of your camera
+    camera_url = 'CAMERA_URL'
 
-while True:
-    # Read a frame from the camera
-    ret, frame = cap.read()
+    # Capture the image from the camera
+    response = requests.get(camera_url)
+    image_data = BytesIO(response.content)
 
-    # Display the frame
-    cv2.imshow('Live Camera Feed', frame)
+    # Open the image using Pillow
+    image = Image.open(image_data)
 
-    # Exit loop if 'q' is pressed
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
+    return image
 
-# Release the camera and close the window
-cap.release()
-cv2.destroyAllWindows()
+if __name__ == "__main__":
+    # Capture an image
+    captured_image = capture_image()
+
+    # Display the image
+    captured_image.show()
