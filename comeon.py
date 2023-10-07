@@ -1,5 +1,6 @@
 pip install opencv-contrib-python
 import cv2
+pip install opencv-contrib-python
 
 # Initialize the camera
 cap = cv2.VideoCapture(0)  # 0 represents the default camera, change if needed
