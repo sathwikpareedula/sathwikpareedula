@@ -31,7 +31,6 @@
 - 🔗 [MyShell](https://github.com/sathwikpareedula/myshell)
 
 ---
-![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathwikpareedula&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 
