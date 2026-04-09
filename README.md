@@ -38,6 +38,3 @@
 * Email: sathwikpareedula@gmail.com
 
 ---
-## 📊 GitHub Stats
-
-![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathwikpareedula&show_icons=true&theme=dark)
