@@ -24,11 +24,11 @@
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-* 🚗 Toyota Fuel Economy Analyzer (Full-Stack Web App)
-* ♻️ Recyclability Classifier (ML Project)
-* 🐚 MyShell (Unix-like Shell in C)
+- 🔗 [Toyota Fuel Economy Analyzer](https://github.com/sathwikpareedula/toyota-fuel-economy)
+- 🔗 [Recyclability Classifier](https://github.com/sathwikpareedula/Recyclability-classifier)
+- 🔗 [MyShell](https://github.com/sathwikpareedula/myshell)
 
 ---
 
@@ -38,3 +38,6 @@
 * Email: sathwikpareedula@gmail.com
 
 ---
+## 📊 GitHub Stats
+
+![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathwikpareedula&show_icons=true&theme=dark)
