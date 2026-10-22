@@ -1,60 +1,65 @@
-# Hi, I'm Sathwik Pareedula 👋
 
-🎓 Computer Science student at The University of Texas at Arlington  
-🤖 Undergraduate AI Researcher | AI/ML | Full-Stack Development  
-🎯 Interested in AI/ML, Applied AI, AI Engineering, and Software Engineering internships
+# Hi, I'm Sathwik pareedula 👋
 
-## About Me
+I'm a Computer Science student at the University of Texas at Arlington, graduating in May 2027. I enjoy building software that solves real problems, whether that's a full-stack application, a tool that makes everyday work easier, or an AI system that needs careful engineering behind it.
 
-I'm a Computer Science student at UTA with experience in AI/ML, full-stack development, and systems programming.
+I'm currently an Undergraduate AI Researcher at UTA's Heracleia Human-Centered Computing (HCC) Lab. Outside of research, I spend a lot of time building projects, learning new technologies, and improving the systems I've already built.
 
-I'm currently an Undergraduate AI Researcher in UTA's Heracleia Human-Centered Computing (HCC) Lab, researching an agentic AI coaching framework for human-in-the-loop robot navigation.
+I'm interested in software engineering, backend development, applied AI, and the intersection of AI and human-computer interaction.
 
-My research involves Vision-Language Models (VLMs), multimodal AI, model benchmarking, real-time inference, safety evaluation, and experimental design.
+## What I'm working on
 
-Outside of research, I build projects across machine learning, backend/full-stack development, and systems programming.
+### [Hey Canvas](https://github.com/sathwikpareedula/hey-canvas)
+A project I started because I was tired of switching between Canvas, course materials, and AI chats every time I wanted help studying.
 
-## Tech Stack
+Hey Canvas is an open-source, local-first academic copilot that brings authorized Canvas information and course-aware AI assistance into one workspace. I've been working on the full-stack application, Canvas integration, retrieval, local LLM support, and reliability testing.
 
-**Languages:** Python, C, Java, JavaScript, SQL  
-**AI/ML:** TensorFlow, OpenCV, Vision-Language Models, Ollama  
-**Backend:** Node.js, Express.js, FastAPI, REST APIs  
-**Web & Visualization:** HTML, CSS, Three.js, Chart.js, Streamlit  
-**Tools:** Git, GitHub, VS Code, Postman, MySQL
+**Tech:** Next.js, React, TypeScript, Python, FastAPI, SQLite, Ollama
 
-## Featured Projects
+### AI Navigation Coach — Undergraduate Research
+At UTA's HCC Lab, I'm researching how AI can assist people during robot navigation without taking control away from them.
 
-### 🤖 AI Navigation Coach — Undergraduate Research
-Developing an agentic AI coaching framework for human-in-the-loop robot navigation using Vision-Language Models, multimodal reasoning, navigation evaluation, and safety checking.
+The work involves Vision-Language Models, multimodal AI, model evaluation, real-time guidance, and safety. I'm also working on the experimental framework for studying how AI coaching affects navigation performance.
 
-**Research Areas:** Agentic AI, VLMs, Multimodal AI, HCI, Robot Navigation
+**Research areas:** Agentic AI, VLMs, Human-in-the-Loop AI, HCI, Robot Navigation
 
-> Research initiated through UTA's I-Engage Undergraduate Research Program and continuing in the Heracleia Human-Centered Computing (HCC) Lab.
+### Agentic Intelligence Workspace
+A full-stack project exploring how AI agents can help people work with datasets and documents.
 
-### ♻️ [Recyclability Classifier](https://github.com/sathwikpareedula/Recyclability-classifier)
-CNN-based image classifier for identifying recyclable and non-recyclable waste.
+It brings together LLM orchestration, retrieval, structured analytics, and evidence verification to support reusable analytical workflows.
 
-**Tech:** Python, TensorFlow, OpenCV, Streamlit
+**Tech:** Python, FastAPI, PostgreSQL, pgvector, RAG, REST APIs, Docker
 
-### 🚗 [Toyota Fuel Economy Analyzer](https://github.com/sathwikpareedula/toyota-fuel-economy)
-Full-stack web application for analyzing and comparing Toyota vehicle fuel economy data from 2021–2025.
+## Other projects
 
-**Tech:** Node.js, Express.js, JavaScript, Chart.js, REST APIs
+- **[MyShell](https://github.com/sathwikpareedula/myshell)** — A Unix-like shell written in C, using system calls for command execution, process management, and I/O.
 
-### 🐚 [MyShell](https://github.com/sathwikpareedula/myshell)
-Unix-like shell implemented in C using system calls for process management, command execution, and I/O operations.
+- **[Recyclability Classifier](https://github.com/sathwikpareedula/Recyclability-classifier)** — A computer vision project that uses a CNN to classify recyclable and non-recyclable waste.
 
-**Tech:** C, Unix System Calls, Process Management
+- **[Toyota Fuel Economy Analyzer](https://github.com/sathwikpareedula/toyota-fuel-economy)** — A full-stack web application for exploring and comparing Toyota vehicle fuel economy data.
 
-## Current Focus
+## Technologies I work with
 
-- Agentic and multimodal AI systems
-- Vision-Language Model evaluation
-- Human-in-the-loop AI
-- AI/ML and software engineering
-- Building reliable real-world AI applications
+**Languages:** Python, Java, C, JavaScript, TypeScript, SQL
 
-## Connect
+**Full-stack & backend:** React, Next.js, Node.js, Express, FastAPI, REST APIs
 
-**LinkedIn:** linkedin.com/in/sathwik-pareedula/  
-**Email:** sathwikpareedula@gmail.com
+**Databases:** PostgreSQL, pgvector, SQLite, MySQL
+
+**AI & machine learning:** TensorFlow, OpenCV, Ollama, RAG, Vision-Language Models
+
+**Tools & infrastructure:** Git, GitHub, Docker, AWS, Postman
+
+## Beyond the code
+
+Alongside my technical work, I'm a Student Manager for Special Events & Facilities at UTA, where I've gained experience leading teams, coordinating events, and solving problems in fast-moving environments.
+
+I'm always looking to learn from other engineers and build things that are useful beyond the classroom.
+
+## Let's connect
+
+- **Portfolio:** [sathwik-portfolio-current-clean.vercel.app](https://sathwik-portfolio-current-clean.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/sathwik-pareedula](https://www.linkedin.com/in/sathwik-pareedula/)
+- **Email:** [sathwikpareedula@gmail.com](mailto:sathwikpareedula@gmail.com)
+
+I'm graduating in **May 2027** and exploring new-grad opportunities in Software Engineering, AI Engineering, and related fields.
