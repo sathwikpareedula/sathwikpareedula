@@ -1,5 +1,5 @@
 
-# Hi, I'm Sathwik pareedula 👋
+# Hi, I'm Sathwik Pareedula 👋
 
 I'm a Computer Science student at the University of Texas at Arlington, graduating in May 2027. I enjoy building software that solves real problems, whether that's a full-stack application, a tool that makes everyday work easier, or an AI system that needs careful engineering behind it.
 
